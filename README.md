@@ -9,7 +9,7 @@ altera arquivo
 git add< nome>
 
 gir commit -m "comentario"
-
-git pull
+ 
+novo teste
   
 
