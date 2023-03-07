@@ -11,5 +11,7 @@ git add< nome>
 gir commit -m "comentario"
  
 git pull
+ 
+teste
   
 
