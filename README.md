@@ -10,6 +10,6 @@ git add< nome>
 
 gir commit -m "comentario"
  
-novo teste
+git pull
   
 
